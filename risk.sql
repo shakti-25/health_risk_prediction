@@ -9,7 +9,7 @@ create table Diagnoses(
     
 create table Outcomes(
 	OutcomesID int primary key,
-    OutcomesName varchar(255)
+    OutcomeName varchar(255)
     );
     
 create table Patients(
