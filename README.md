@@ -201,8 +201,6 @@ and predicts:
 
 **Shakti Thevar**
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
 
 ---
 
